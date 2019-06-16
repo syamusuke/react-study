@@ -1,0 +1,16 @@
+{
+  "name": "udemy_react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/syamusuke/react-study.git",
+  "author": "kgorai <syam.pjr08a.05t@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.34.0",
+    "webpack-dev-server": "^3.7.1"
+  }
+}
